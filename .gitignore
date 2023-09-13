@@ -1,0 +1,32 @@
+        .VirtualBox/
+        .bash_history
+        .fontconfig/
+        .gitconfig
+        .kube/
+        .lesshst
+        .minikube/
+        3D Objects/
+        AppData/
+        Contacts/
+        Desktop/
+        Documents/
+        Downloads/
+        Favorites/
+        IntelGraphicsProfiles/
+        Links/
+        MediaGet2/
+        Music/
+        NTUSER.DAT
+        NTUSER.DAT{c88fb994-a5fd-11eb-9d92-709cd188841a}.TM.blf
+        NTUSER.DAT{c88fb994-a5fd-11eb-9d92-709cd188841a}.TMContainer00000000000000000001.regtrans-ms
+        NTUSER.DAT{c88fb994-a5fd-11eb-9d92-709cd188841a}.TMContainer00000000000000000002.regtrans-ms
+        Pictures/
+        Saved Games/
+        Searches/
+        Tracing/
+        Videos/
+        lecture/
+        lecture_git/
+        ntuser.dat.LOG1
+        ntuser.dat.LOG2
+        ntuser.ini
